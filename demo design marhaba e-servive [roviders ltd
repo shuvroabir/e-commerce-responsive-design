@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Booklist</title>
+    <link rel="stylesheet" href="css/main.css" />
+  </head><!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MARHABA</title>
+    <link rel="stylesheet" href="css/main.css" />
+  </head>    <title> MARHABA e-Service Providers LTD.</title>
+    <link rel="stylesheet" type="text/css" href="styles/layout.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+        integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous" />
+    <script src="./scrypts/typewriter.js"></script>
+    <script src="./scrypts/scroll.js"></script>
+</head>
+
+<body>
+    <!--navbar script-->
+ 
+    <nav id="navbar">
+        <ul id="nav-list">
+            <li><a href="#welcome-section">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a herf="Service">Services</a></li>
+            <li><a href="#contacts">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="welcome-section">
+            <h1>...</h1>
+        </section>
+<div class="container">
+        <div>
+            <img src="pic/intro-bg_1.jpg" class="cover"/>
+        </div>
+
+<section id="about-section">
+            <header class="headers">About</header>
+            <h2>Learn, create, work and repeat.
+            </h2>
+            <p>I am a Web Developer passionate about the internet, data, and quality. I believe that together, they
+                can
+                be powerful and meaningful in many ways to change people's lives.
+                Over the years, I have acquired expertise and experience in a wide range of tools that, along with
+                my
+                creativity and resilience, have allowed me to help people solve their problems and make their lives
+                easier. I love to learn, seek innovation and help those around me achieve their goals.
+                I am also a multi-instrumentalist/producer/mixer and music has been a big passion since I was young.
+                I
+                like to stay with my family and friends in my free time, learn new stuff, play my guitar, compose
+                songs
+                or make notes about new ideas.
+                Let's connect and have a chat about what you are trying to build next!</h1>
+                <div class="container">
+        <div>
+            <img src="pic/camera.jpg" class="cover"/>
+        </div>
+        </section>
+</p>
+</section>
+        <!-- Destination 1 -->
+        <div class="destinations-container">
+            <div>
+                <figure>
+                    <img src="pic/home.jpeg" class="destinations" alt="Destinations"/>
+                    <figcaption>Fig.1 - e-Service</figcaption>
+                </figure>
+            </div>
+            <div class="caption">
+                <h5>New Service</h5>
+                <p>E-services (electronic services) are services which use of information and communication technologies (ICTs). ... Internet is the main channel of e-service delivery while other classic channels (e.g. telephone, call center, public kiosk, mobile phone, television) are also considered.</p>
+            </div>
+        </div>
+
+        <!-- Destination 2 -->
+        <div class="destinations-container">
+            <div class="caption">
+                <h5>Get in</h5>
+                <p>MARHABA e-SERVICE PROVIDER LTD provides the customers High Quality services within low prices
+</p>
+            </div>
+            <div>
+                <figure>
+                    <img src="pic/1.jpeg" class="destinations" alt="Destinations">
+                    <figcaption>Fig.2- Get In</figcaption>
+                </figure>
+            </div>
+        </div>
+    </div>
+
+    <div class="clear-div"></div>
+        
+                <section id="projects">
+            <header class="headers">Projects</header>
+            <div class="projects-container">
+                <a id="project1">
+                    <ul>
+                        <h2 class="project-tile">DA/BA</h2>
+                        <li>Process Improvement</li>
+                        <li>Total Quality Management</li>
+                        <li>Business Process Mapping</li>
+                    </ul>
+                </a>
+                <a id="project2">
+                    <ul>
+                        <h2 class="project-tile">SEO Services</h2>
+                        <li>Youtube</li>
+                        <li>Instragram</li>
+                        <li>Twitter</li>
+                        <li>Linkenid</li>
+                        <li>Facebook Page & Advertise</li>
+                       
+                    </ul>
+                </a>
+                <a id="project3">
+                    <ul>
+                        <h2 class="project-tile">Web Development</h2>
+                        <li>Websites</li>
+                        <li>Graphics Design</li>
+                        <li>Logo Design</li>
+                        <li>Data Entry</li>
+                        <li>Affiliate marketing</li>
+                    </ul>
+                </a>
+            </div>
+            <div class="container">
+        <div>
+            <img src="pic/2.jpeg" class="cover"/>
+        </div>
+        </section>
+
+         
+         <section id="contacts">
+            <header class="headers">Get In Touch</header>
+            <div class="contact-container">
+                <a id="profile-link" href="https://github.com/shuvroabir" target="_blank">
+                    <i class="fab fa-github"></i>
+                    GitHub
+                </a>
+                <a id="profile-link" href="https://www.linkedin.com/in/md-ali-nafis-abir-227b5a182/" target="_blank">
+                    <i class="fab fa-linkedin"></i>
+                    LinkedIn
+                </a>
+                <a id="profile-link" href="https://www.instagram.com/shuvro.abir.71/" target="_blank">
+                    <i class="fab fa-instagram"></i>
+                    Instagram
+                </a>
+                <a id="profile-link" href="https://www.facebook.com/nafiis.abir.71" target="_blank">
+                    <i class="fab fa-facebook"></i>
+                    Facebook
+                </a>
+                <a id="profile-link" href="https://twitter.com/jonathanbcsouza" target="_blank">
+                    <i class="fab fa-twitter"></i>
+                    Twitter
+
+                </a>
+            </div> <div class="container">
+        </div>
+            <img src="pic/map direction.png" class="left-destinations" alt="left-Destinations"/>
+
+                <figure>
+                    <figcaption>Direction</figcaption>
+                </figure>
+            </div>
+        </section>
+         <footer class="footer">
+        <p class="footer-content">© 2021,Abir- , All Copyrights Reserved</p>
+    </footer>
+    </main>
+    <button id="scrollBtn" onclick="scrollUp()">△</button>
+
+</html>
